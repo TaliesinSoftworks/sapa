@@ -4,12 +4,14 @@ __in#CAP hole in#M1#DEFOBJ ground past_p dwell hobbit.__
 
 > Not a nasty, dirty, wet hole, full of the ends of worms and an oozy smell,
 
-__nothing#CAP hole#GEN nasty#M1, slimy, wet, and_p fill#PASS use#M1 end_n#PL worm#GEN#PL and_n smell ooze#ADJ#M1,__
+__nothing#CAP hole#GEN#M1 nasty#M1, slimy, wet, and_p fill#PASS use#M1 end_n#PL worm#PL#GEN#M1 and_n smell ooze#ADJ#M1,__
 
 > nor yet a dry, bare, sandy hole, with nothing in it to sit down on or to eat.
 
-__and_n nothing hole#GEN dry#M1, empty_v#PASS, sand#ADJ, and_p have nothing in#M1 3SG for_purpose sit#INCH#GER and_n nothing for_purpose#M1 eat#GER.__
+__and_n nothing hole#GEN#M1 dry#M1, empty_v#PASS, sand#ADJ, and_p have nothing in#M1 3SG for_purpose sit#INCH#GER and_n nothing for_purpose#M1 eat#GER.__
 
 > It was a hobbit-hole, and that means comfort.
 
-__3SG#CAP past_p be hole hobbit#GEN, and_s that imply comfort_v#GER.__
+__3SG#CAP past_p be hole hobbit#GEN#M1, and_s that imply comfort_v#GER.__
+
+3SG#CAP past_p be hole hobbit#GEN#M1, and_s that imply comfort_v#GER.
