@@ -1,0 +1,23 @@
+---
+inflections:
+  PASS:
+    - ["([aeiouy])$", "$1ren"]
+    - ["$", "en"]
+  ADJ:
+    - ["$", "ta"]
+  M1:
+    - ["^([aeiou])", "y$1"]
+    - ["^", "a"]
+  DEFOBJ:
+    - ["$", "n"]
+  PL:
+    - ["$", "i"]
+  GER:
+    - ["$", "da"]
+  INCH:
+    - ["$", "ya"]
+  GEN:
+    - ["m$", "nsam"]
+    - ["$", "sam"]
+compound:
+  - ["$", "^", "-", ""]
