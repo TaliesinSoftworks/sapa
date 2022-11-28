@@ -72,11 +72,11 @@ __Talsurta imulda mulemta ekisam. Rirma, rirma, pengsum Sapa kuwataska.__
 
 > Whose blood is fet from fathers of war-proof!
 
-__(whose??) urang yantas (fet??) yala yuryungi (war-proof??)sam!__
+__Urangn satursam yantas matenen yala yuryungi wotamen kiryasam!__
 
-> Fathers that, like so many Alexanders,
+> Fathers that, like so many Alexander,
 
-__Yuryungi ri-eki, meta iru malpa (Alexanders??),__
+__Yuryungi ri-eki, meta iru malpa (Alexander??)i,__
 
 > Have in these parts from morn till even fought
 
