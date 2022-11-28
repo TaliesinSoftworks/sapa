@@ -19,5 +19,7 @@ inflections:
   GEN:
     - ["m$", "nsam"]
     - ["$", "sam"]
+  SUP:
+    - ["$", "ska"]
 compound:
   - ["$", "^", "-", ""]

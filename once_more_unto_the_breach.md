@@ -8,11 +8,11 @@ __Osiri aram (unto??) (breach??)n, lasusani akanrurta, osiri aram;__
 
 > Or close the wall up with our English dead.
 
-__Ahar gilalha rarenn bunwan kelsal (our??) (English??) rugol.__
+__Ahar gilalha rarenn bunwan kelsal tugan rugolsam Sapata.__
 
 > In peace there's nothing so becomes a man
 
-__Alel surru urang'(s??) yemur iru olas (do_not_use??) kagasen__
+__Alel surru urang yantas yemur iru olas (do_not_use??) kagasen__
 
 > As modest stillness and humility:
 
@@ -20,122 +20,120 @@ __Simtan (stillness??) (modesty??)ta koy (humility??):__
 
 > But when the blast of war blows in our ears,
 
-__Irerwo iba ranparn kiryasam kalsa alel (our??) tungyimi,__
+__Irerwo iba ranparn kiryasam kalsa alel tugan tungyinsami,__
 
 > Then imitate the action of the tiger;
 
-__Suntas (imitate??) (action??)n (do_not_use??) (tiger??)n;__
+__Suntas yantas meta asungn galnsam;__
 
 > Stiffen the sinews, summon up the blood,
 
-__(stiffen??) (sinew??)in, (summon??) bunwan urangn,__
+__(stiffen??) (sinew??)ni, (summon??) bunwan urangn,__
 
 > Disguise fair nature with hard-favour'd rage;
 
-__((disguise??)#cap??) surto yeyulta kelsal (hard-favour??)'(d??) (rage??);__
+__Sunlorpal surto yeyulta kelsal uramru ayisarenta urikamta;__
 
 > Then lend the eye a terrible aspect;
 
-__Suntas (lend??) yumhamn (do_not_use??) harlol (aspect??);__
+__Suntas laka yumhamn amahon harlolta;__
 
 > Let pry through the portage of the head
 
-__tasa (pry??) lantur (portage??)n (do_not_use??) sulyoln__
+__Tasa (pry??) lantur (portage??)n sulyolnsam__
 
 > Like the brass cannon; let the brow o'erwhelm it
 
-__meta aragu (brass??) (cannon??); tasa aragu (brow??) (o??)'(erwhelm??) atitu__
+__Meta ralsam kinkuta; tasa (brow??)sam (overwhelm??) eki__
 
 > As fearfully as doth a galled rock
 
-__(As??) (fearfully??) simtan (doth??) (do_not_use??) (galled??) warali__
+__Simtan (fearfully??) simtan (doth??) warali uramrurenta__
 
 > O'erhang and jutty his confounded base,
 
-__(O??)'(erhang??) koy (jutty??) (his??) (confounded??) ilu,__
+__(overhang??) koy (jutty??) ilu ekisam aranenta,__
 
 > Swill'd with the wild and wasteful ocean.
 
-__(Swill??)'(d??) kelsal aragu sangsin koy (wasteful??) (ocean??).__
+__(swill??)en kelsal sayen sangsinta koy saruta.__
 
 > Now set the teeth and stretch the nostril wide,
 
-__(Now??) lin aragu (teeth??) koy itollen aragu (nostril??) relgamta,__
+__Upuke lin kikanni koy itollen somen relgamtata,__
 
 > Hold hard the breath and bend up every spirit
 
-__(Hold??) urikam aragu kalo koy muran bunwan sayunro laga__
+__Tarkar urikamta kalon koy muran bunwan laga sayunrota__
 
 > To his full height. On, on, you noblest English.
 
-__(To??) (his??) mulem (height??). (On??), rirma, pengsum (noblest??) (English??).__
+__Talsurta imulda mulemta ekisam. Rirma, rirma, pengsum Sapa kuwataska.__
 
 > Whose blood is fet from fathers of war-proof!
 
-__(Whose??) urang (is??) (fet??) yala (fathers??) (do_not_use??) (war-proof??)!__
+__(whose??) urang yantas (fet??) yala yuryungi (war-proof??)sam!__
 
 > Fathers that, like so many Alexanders,
 
-__(Fathers??) ri-eki, meta iru malpa (Alexanders??),__
+__Yuryungi ri-eki, meta iru malpa (Alexanders??),__
 
 > Have in these parts from morn till even fought
 
-__(Have??) alel (these??) (parts??) yala (morn??) (till??) saban (fought??)__
+__Ma alel amahoni ri-ekiita yala eha bulwir tanmirha yukanen__
 
 > And sheathed their swords for lack of argument:
 
-__(And??) (sheathed??) (their??) (swords??) karleham rarsa (do_not_use??) (argument??):__
+__Koy gilalharen sutari ekiisam karleham rarsa egahasam:__
 
 > Dishonour not your mothers; now attest
 
-__(Dishonour??) lilunko (your??) (mothers??); upuke (attest??)__
+__Ulisul yakii pengsumisam; upuke rum__
 
 > That those whom you call'd fathers did beget you.
 
-__(That??) ri-ekii (whom??) pengsum suka'(d??) (fathers??) (did??) (beget??) pengsum.__
+__Ri-eki ri-ekii satur pengsum sukaren yuryungi sunhanen (beget??) pengsum.__
 
 > Be copy now to men of grosser blood,
 
-__(Be??) (copy??) upuke talsurta (men??) (do_not_use??) (grosser??) urang,__
+__Yantas (copy??) upuke talsurta kagaseni urangsam (gross??)skata,__
 
 > And teach them how to war. And you, good yeoman,
 
-__(And??) masa (them??) wisur talsurta kirya. (And??) pengsum, konma (yeoman??),__
+__Koy masa (them??) wisur talsurta kirya. Koy pengsum, (yeoman??) konmata,__
 
 > Whose limbs were made in England, show us here
 
-__(Whose??) (limbs??) (were??) (made??) alel (England??), maki (us??) hurgum__
+__(whose??) miyai ma talmaren alel Sapa, maki tugan hurgum__
 
 > The mettle of your pasture; let us swear
 
-__(The??) (mettle??) (do_not_use??) (your??) (pasture??); tasa (us??) kartung__
+__(mettle??)n akantisam pengsunsam; tasa tugan kartung__
 
 > That you are worth your breeding; which I doubt not;
 
-__(That??) pengsum (are??) olan (your??) (breeding??); tunlu (I??) lunte lilunko;__
+__ri-eki pengsum yantas olan rarsanda pengsunsam; tunlu rar lunte lilunko;__
 
 > For there is none of you so mean and base,
 
-__(For??) urang (is??) tuta (do_not_use??) pengsum iru matun koy ilu,__
+__Karleham urang yantas tuta pengsumisam iru matun koy iluta,__
 
 > That hath not noble lustre in your eyes.
 
-__(That??) (hath??) lilunko kuwa (lustre??) alel (your??) (eyes??).__
+__ri-eki iratoi lilunko akangro kuwata alel yumhansami.__
 
 > I see you stand like greyhounds in the slips,
 
-__(I??) ra pengsum solyung meta (greyhounds??) alel aragu (slips??),__
+__Rar ra pengsum solyung meta (greyhound??)i alel yassini,__
 
 > Straining upon the start. The game's afoot:
 
-__(Straining??) lara aragu marul. (The??) gangku'(s??) (afoot??):__
+__(strain??)da lara maruln. Gangkun yantas turinda:__
 
 > Follow your spirit, and upon this charge
 
-__(Follow??) (your??) laga, koy lara (this??) mamus__
+__Baran laga pengsunsam, koy lara (this??) mamus__
 
 > Cry 'God for Harry, England, and Saint George!'
 
-__(Cry??) '(God??) karleham (Harry??), (England??), koy (Saint??) (George??)!'__
-
-> 
+__Ara 'Rirlen karleham (Harry??), Sapa, koy (George??) Rirlensamta!'__

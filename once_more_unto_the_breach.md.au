@@ -8,11 +8,11 @@ __once#CAP more unto breach#DEFOBJ, friend#PL dear#ADJ, once more;__
 
 > Or close the wall up with our English dead.
 
-__or#CAP close wall#DEFOBJ up with our English dead.__
+__or#CAP close wall#DEFOBJ up with we dead#GEN LANGNAME#ADJ.__
 
 > In peace there's nothing so becomes a man
 
-__in#CAP peace there's nothing so become a man__
+__in#CAP peace there be nothing so become a man__
 
 > As modest stillness and humility:
 
@@ -20,122 +20,120 @@ __as#CAP stillness modesty#ADJ and humility:__
 
 > But when the blast of war blows in our ears,
 
-__but#CAP when blast#DEFOBJ war#GEN blow in our ear#PL,__
+__but#CAP when blast#DEFOBJ war#GEN blow in we ear#GEN#PL,__
 
 > Then imitate the action of the tiger;
 
-__then#CAP imitate action#DEFOBJ of tiger#DEFOBJ;__
+__then#CAP be like attack#DEFOBJ cat#DEFOBJ#GEN;__
 
 > Stiffen the sinews, summon up the blood,
 
-__stiffen#CAP sinew#PL#DEFOBJ, summon up blood#DEFOBJ,__
+__stiffen#CAP sinew#DEFOBJ#PL, summon up blood#DEFOBJ,__
 
 > Disguise fair nature with hard-favour'd rage;
 
-__disguise#cap nature fair#ADJ with hard-favour'd rage;__
+__cover#CAP nature fair#ADJ with anger favor#PASS#ADJ hard#ADJ;__
 
 > Then lend the eye a terrible aspect;
 
-__then#CAP lend eye#DEFOBJ a terrible aspect;__
+__then#CAP give eye#DEFOBJ part terrible#ADJ;__
 
 > Let pry through the portage of the head
 
-__let pry through portage#DEFOBJ of head#DEFOBJ__
+__let#CAP pry through portage#DEFOBJ head#DEFOBJ#GEN__
 
 > Like the brass cannon; let the brow o'erwhelm it
 
-__like the brass cannon; let the brow o'erwhelm it__
+__like#CAP gun#GEN metal#ADJ; let brow#GEN overwhelm 3SG__
 
 > As fearfully as doth a galled rock
 
-__As fearfully as doth a galled rock__
+__as#CAP fearfully as doth rock anger#PASS#ADJ__
 
 > O'erhang and jutty his confounded base,
 
-__O'erhang and jutty his confounded base,__
+__overhang#CAP and jutty base 3SG#GEN confuse#PASS#ADJ,__
 
 > Swill'd with the wild and wasteful ocean.
 
-__Swill'd with the wild and wasteful ocean.__
+__swill#PASS#CAP with sea#DEFOBJ wild#ADJ and waste#ADJ.__
 
 > Now set the teeth and stretch the nostril wide,
 
-__Now set the teeth and stretch the nostril wide,__
+__now#CAP set tooth#DEFOBJ#PL and stretch nose#DEFOBJ wide#ADJ,__
 
 > Hold hard the breath and bend up every spirit
 
-__Hold hard the breath and bend up every spirit__
+__hold#CAP hard#ADJ breath#DEFOBJ and bend up spirit every#ADJ__
 
 > To his full height. On, on, you noblest English.
 
-__To his full height. On, on, you noblest English.__
+__to#CAP tall#GER full#ADJ 3SG#GEN. on#CAP, on, you LANGNAME noble#ADJ#SUP.__
 
 > Whose blood is fet from fathers of war-proof!
 
-__Whose blood is fet from fathers of war-proof!__
+__whose#CAP blood be fet from father#PL war-proof#GEN!__
 
 > Fathers that, like so many Alexanders,
 
-__Fathers that, like so many Alexanders,__
+__father#CAP#PL that, like so many Alexanders,__
 
 > Have in these parts from morn till even fought
 
-__Have in these parts from morn till even fought__
+__past_p#CAP in part#PL that#PL#ADJ from morning until evening fight#PASS__
 
 > And sheathed their swords for lack of argument:
 
-__And sheathed their swords for lack of argument:__
+__and#CAP close#PASS sword#PL 3SG#PL#GEN for lack argue#GEN:__
 
 > Dishonour not your mothers; now attest
 
-__Dishonour not your mothers; now attest__
+__honor#CAP mother#PL you#PL#GEN; now exclaim__
 
 > That those whom you call'd fathers did beget you.
 
-__That those whom you call'd fathers did beget you.__
+__that#CAP those who you call#PASS father#PL do#PASS beget you.__
 
 > Be copy now to men of grosser blood,
 
-__Be copy now to men of grosser blood,__
+__be#CAP copy now to man#PL blood#GEN gross#SUP#ADJ,__
 
 > And teach them how to war. And you, good yeoman,
 
-__And teach them how to war. And you, good yeoman,__
+__and#CAP teach them how to war. and#CAP you, yeoman good#ADJ,__
 
 > Whose limbs were made in England, show us here
 
-__Whose limbs were made in England, show us here__
+__whose#CAP limb#PL past_p make#PASS in LANGNAME, show we here__
 
 > The mettle of your pasture; let us swear
 
-__The mettle of your pasture; let us swear__
+__mettle#DEFOBJ#CAP field#M1#GEN you#GEN; let we swear__
 
 > That you are worth your breeding; which I doubt not;
 
-__That you are worth your breeding; which I doubt not;__
+__that you be worth grow#GER you#GEN; which i doubt not;__
 
 > For there is none of you so mean and base,
 
-__For there is none of you so mean and base,__
+__for#CAP there be none you#PL#GEN so mean and base#ADJ,__
 
 > That hath not noble lustre in your eyes.
 
-__That hath not noble lustre in your eyes.__
+__that have#PL not gleam#M1 noble#ADJ in eye#GEN#PL.__
 
 > I see you stand like greyhounds in the slips,
 
-__I see you stand like greyhounds in the slips,__
+__i#CAP see you stand like greyhound#PL in slip#DEFOBJ#PL,__
 
 > Straining upon the start. The game's afoot:
 
-__Straining upon the start. The game's afoot:__
+__strain#GER upon start#DEFOBJ. game#DEFOBJ#CAP be foot#GER:__
 
 > Follow your spirit, and upon this charge
 
-__Follow your spirit, and upon this charge__
+__follow#CAP spirit you#GEN, and upon this charge__
 
 > Cry 'God for Harry, England, and Saint George!'
 
-__Cry 'God for Harry, England, and Saint George!'__
-
-> 
+__cry#CAP 'god#CAP for Harry, LANGNAME, and George god#GEN#ADJ#CAP!'__
