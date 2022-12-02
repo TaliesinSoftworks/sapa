@@ -4,7 +4,7 @@ __Alel sambam (yalel#DEFOBJ??) kalwa ma toke usulsi-turin.__
 
 > Not a nasty, dirty, wet hole, full of the ends of worms and an oozy smell,
 
-__Yemur asambansam asasa, siata, turun, koy ramaren agalsokal pasumi adehanisam koy uku adaileta,__
+__Yemur asambansam asasa, siata, turun, koy ramaren agal pasumi adehanisam koy uku adaileta,__
 
 > nor yet a dry, bare, sandy hole, with nothing in it to sit down on or to eat.
 

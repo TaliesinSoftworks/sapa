@@ -4,19 +4,19 @@
 
 > Once more unto the breach, dear friends, once more;
 
-__Ginsam aram wure sambamak, amalei lasusani, ginsam aram;__
+__Ginsam aram wure sambamak, yasai lasusani, ginsam aram;__
 
 > Or close the wall up with our English dead.
 
-__Ahar gilalha palorak galsokal tugan rugolsam Sapata.__
+__Ahar gilalha palorak gal sungasoki Sapatani.__
 
 > In peace there's nothing so becomes a man
 
-__Alel surru urang yantas yemur iru olas (do_not_use??) kagasen__
+__Punsar won alel surru kagasen__
 
 > As modest stillness and humility:
 
-__Simtan (stillness??) (modesty??)ta koy (humility??):__
+__Iken (stillness??) (modesty??)ta koy (humility??):__
 
 > But when the blast of war blows in our ears,
 

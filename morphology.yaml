@@ -27,5 +27,13 @@ inflections:
     - ["$", "ska"]
   PFV:
     - ["$", "ha"]
+  PASTPART:
+    - ["$", "a"]
+  EXPERIENCER:
+    - ["$", "s"]
+  1PLPOSS:
+    - ["$", "ok"]
+  ABESS:
+    - ["^", "pun"]
 compound:
   - ["$", "^", "-", ""]
