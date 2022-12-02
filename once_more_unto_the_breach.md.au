@@ -4,11 +4,11 @@
 
 > Once more unto the breach, dear friends, once more;
 
-__once#CAP more unto breach#DEFOBJ, friend#PL dear#ADJ, once more;__
+__once#CAP more against hole#DEF, friend#PL dear#ADJPL, once more;__
 
 > Or close the wall up with our English dead.
 
-__or#CAP close wall#DEFOBJ up with we dead#GEN LANGNAME#ADJ.__
+__or#CAP close#PFV wall#DEF use we dead#GEN LANGNAME#ADJ.__
 
 > In peace there's nothing so becomes a man
 
@@ -20,15 +20,15 @@ __as#CAP stillness modesty#ADJ and humility:__
 
 > But when the blast of war blows in our ears,
 
-__but#CAP when blast#DEFOBJ war#GEN blow in we ear#GEN#PL,__
+__but#CAP when blast#DEF war#GEN blow in we ear#GEN#PL,__
 
 > Then imitate the action of the tiger;
 
-__then#CAP be like attack#DEFOBJ cat#DEFOBJ#GEN;__
+__then#CAP be like attack#DEF cat#DEF#GEN;__
 
 > Stiffen the sinews, summon up the blood,
 
-__stiffen#CAP sinew#DEFOBJ#PL, summon up blood#DEFOBJ,__
+__stiffen#CAP sinew#DEF#PL, summon up blood#DEF,__
 
 > Disguise fair nature with hard-favour'd rage;
 
@@ -36,11 +36,11 @@ __cover#CAP nature fair#ADJ with anger favor#PASS#ADJ hard#ADJ;__
 
 > Then lend the eye a terrible aspect;
 
-__then#CAP give eye#DEFOBJ part terrible#ADJ;__
+__then#CAP give eye#DEF part terrible#ADJ;__
 
 > Let pry through the portage of the head
 
-__let#CAP pry through portage#DEFOBJ head#DEFOBJ#GEN__
+__let#CAP pry through portage#DEF head#DEF#GEN__
 
 > Like the brass cannon; let the brow o'erwhelm it
 
@@ -56,15 +56,15 @@ __overhang#CAP and jutty base 3SG#GEN confuse#PASS#ADJ,__
 
 > Swill'd with the wild and wasteful ocean.
 
-__swill#PASS#CAP with sea#DEFOBJ wild#ADJ and waste#ADJ.__
+__swill#PASS#CAP with sea#DEF wild#ADJ and waste#ADJ.__
 
 > Now set the teeth and stretch the nostril wide,
 
-__now#CAP set tooth#DEFOBJ#PL and stretch nose#DEFOBJ wide#ADJ,__
+__now#CAP set tooth#DEF#PL and stretch nose#DEF wide#ADJ,__
 
 > Hold hard the breath and bend up every spirit
 
-__hold#CAP hard#ADJ breath#DEFOBJ and bend up spirit every#ADJ__
+__hold#CAP hard#ADJ breath#DEF and bend up spirit every#ADJ__
 
 > To his full height. On, on, you noblest English.
 
@@ -72,7 +72,7 @@ __to#CAP tall#GER full#ADJ 3SG#GEN. on#CAP, on, you LANGNAME noble#ADJ#SUP.__
 
 > Whose blood is fet from fathers of war-proof!
 
-__blood#DEFOBJ#CAP who#GEN be get#PASS from father#PL prove#PASS war#GEN!__
+__blood#DEF#CAP who#GEN be get#PASS from father#PL prove#PASS war#GEN!__
 
 > Fathers that, like so many Alexander,
 
@@ -108,7 +108,7 @@ __whose#CAP limb#PL past_p make#PASS in LANGNAME, show we here__
 
 > The mettle of your pasture; let us swear
 
-__mettle#DEFOBJ#CAP field#M1#GEN you#GEN; let we swear__
+__mettle#DEF#CAP field#M1#GEN you#GEN; let we swear__
 
 > That you are worth your breeding; which I doubt not;
 
@@ -124,11 +124,11 @@ __that have#PL not gleam#M1 noble#ADJ in eye#GEN#PL.__
 
 > I see you stand like greyhounds in the slips,
 
-__i#CAP see you stand like greyhound#PL in slip#DEFOBJ#PL,__
+__i#CAP see you stand like greyhound#PL in slip#DEF#PL,__
 
 > Straining upon the start. The game's afoot:
 
-__strain#GER upon start#DEFOBJ. game#DEFOBJ#CAP be foot#GER:__
+__strain#GER upon start#DEF. game#DEF#CAP be foot#GER:__
 
 > Follow your spirit, and upon this charge
 

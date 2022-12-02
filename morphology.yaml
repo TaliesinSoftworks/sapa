@@ -8,10 +8,14 @@ inflections:
   M1:
     - ["^([aeiou])", "y$1"]
     - ["^", "a"]
-  DEFOBJ:
-    - ["$", "n"]
+  DEF:
+    - ["([aeiou])$", "$1k"]
+    - ["$", "ak"]
   PL:
+    - ["i$", "i"]
     - ["$", "i"]
+  ADJPL:
+    - ["$", "ni"]
   GER:
     - ["$", "da"]
   INCH:
@@ -21,5 +25,7 @@ inflections:
     - ["$", "sam"]
   SUP:
     - ["$", "ska"]
+  PFV:
+    - ["$", "ha"]
 compound:
   - ["$", "^", "-", ""]

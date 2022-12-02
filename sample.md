@@ -1,6 +1,6 @@
 > In a hole in the ground there lived a hobbit.
 
-__Alel sambam yaleln kalwa ma toke usulsi-turin.__
+__Alel sambam (yalel#DEFOBJ??) kalwa ma toke usulsi-turin.__
 
 > Not a nasty, dirty, wet hole, full of the ends of worms and an oozy smell,
 
